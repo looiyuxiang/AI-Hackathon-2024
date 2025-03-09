@@ -1,4 +1,4 @@
-# Cisco AI-Hackathon 2024  
+# Cisco AI-Hackathon 2024
 
 ## 🏆 Achievement  
 Our team participated in **Cisco AI-Hackathon 2024** and successfully made it to the **finals**, securing **5th place**! 🎉  
@@ -21,6 +21,9 @@ View our **presentation slides** here:
 
 ## 🚀 Summary  
 Our participation in this hackathon was a great learning experience, and we are proud to have been recognized as **finalists**. The project showcased our **AI-driven innovation** and **problem-solving skills**.  
+
+## 📚 What I Learned  
+During this hackathon, I gained hands-on experience in **web development** using **HTML, CSS, and JavaScript**. I also deepened my understanding of **AI technologies** and explored the **latest advancements in the tech industry** through resources available on the **Cisco website**. This experience has truly broadened my knowledge and perspective on **AI and innovation**.  
 
 ---  
 🔹 *If you have any questions or want to collaborate, feel free to reach out!* 😊  
