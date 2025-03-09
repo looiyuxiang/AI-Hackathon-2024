@@ -19,11 +19,11 @@ Watch our **prototype in action**:
 View our **presentation slides** here:  
 [📄 Prototype Slides](https://drive.google.com/file/d/1332YXLXVPbEiCPE6XSVEQuBusnfpqO6g/view?usp=drive_link)  
 
-## 🚀 Summary  
-Our participation in this hackathon was a great learning experience, and we are proud to have been recognized as **finalists**. The project showcased our **AI-driven innovation** and **problem-solving skills**.  
-
 ## 📚 What I Learned  
 During this hackathon, I gained hands-on experience in **web development** using **HTML, CSS, and JavaScript**. I also deepened my understanding of **AI technologies** and explored the **latest advancements in the tech industry** through resources available on the **Cisco website**. This experience has truly broadened my knowledge and perspective on **AI and innovation**.  
+
+## 🚀 Summary  
+Our participation in this hackathon was a great learning experience, and we are proud to have been recognized as **finalists**. The project showcased our **AI-driven innovation** and **problem-solving skills**.  
 
 ---  
 🔹 *If you have any questions or want to collaborate, feel free to reach out!* 😊  
